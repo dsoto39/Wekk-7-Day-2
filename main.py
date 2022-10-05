@@ -21,9 +21,9 @@ from zip import zip
 from min_max import min_max
 # decisions()
 # comparison()
-loop()
+# loop()
 # random()
-ranges()
+# ranges()
 # enum()
-# zip()
+zip()
 # min_max()
